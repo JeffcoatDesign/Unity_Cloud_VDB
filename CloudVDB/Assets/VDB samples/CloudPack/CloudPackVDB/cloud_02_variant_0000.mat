@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: cloud_02_variant_0000
+  m_Shader: {fileID: 4800000, guid: 8451709f45c2243508e6742ef81b7a16, type: 3}
+  m_ShaderKeywords: _CULL_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Volume:
+        m_Texture: {fileID: -238854782122295874, guid: d4472daef8cec7144b0f9eddd3bfdb86, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AmbientDensity: 0.903
+    - _Cull: 0
+    - _Intensity: 0.16
+    - _ShadowSteps: 64
+    - _ShadowThreshold: 0.0288
+    - _StepDistance: 0.0134
+    m_Colors:
+    - _AmbientColor: {r: 0.495283, g: 0.8209399, b: 1, a: 1}
+    - _ShadowDensity: {r: 0.38823533, g: 0.68235296, b: 0.95294124, a: 1}
+  m_BuildTextureStacks: []

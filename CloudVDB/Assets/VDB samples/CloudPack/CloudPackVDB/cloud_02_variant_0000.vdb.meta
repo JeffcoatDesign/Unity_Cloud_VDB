@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: a91c1e61d0fb6dc4eaf0c27439458247
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cloud_02_variant_0000
+    second: {fileID: 2100000, guid: 130cc06c0fd08a049890ea37e05409f2, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: cloud_02_variant_0000
+    second: {fileID: 11700000, guid: ee52931b7c9ed994a990d496be613517, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8dbf4f10acd0347ee84d79cd77d0df3c, type: 3}
+  streamSettings:
+    scaleFactor: 0.01
+    importMaterials: 1
+    extractTextures: 1
+    extractMaterials: 1
+    textures:
+    - {fileID: 11700000, guid: ee52931b7c9ed994a990d496be613517, type: 2}
+    materials:
+    - {fileID: 2100000, guid: 130cc06c0fd08a049890ea37e05409f2, type: 2}
+    textureMaxSize: 256

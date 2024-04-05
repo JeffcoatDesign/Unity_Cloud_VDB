@@ -1,0 +1,10 @@
+{
+    "name": "jp.kazuki.OpenVDB.PackageBuild",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
